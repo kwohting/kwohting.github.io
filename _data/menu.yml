@@ -14,7 +14,7 @@ entries:
 
   - title: 博客
     post_list:
-      category: guide
+      category: tech
       # category: project
       limit: 5
       show_more: true
@@ -22,7 +22,7 @@ entries:
       show_more_url: archive.html
 
   - title: 读书笔记
-    url: recipes.html
+    url: books.html
 
   - title: rss
     url: feed.xml

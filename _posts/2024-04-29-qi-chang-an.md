@@ -2,7 +2,7 @@
 title: 弃长安
 date: '2024-04-29'
 layout: post
-category: recipe
+category: book
 ---
 
 安史之乱时一个朝代的痛，一个国家的痛，一个名族的痛！

@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 date: '2024-04-29'
-category: guide
+category: tech
 ---
 
 第一篇博客, github pages设置倒是简单，不过找主题花了好一阵子。发现<code>jekyllBear</code>是我想要的风格，同时参考<code>blwh</code>实践。
